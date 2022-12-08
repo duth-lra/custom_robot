@@ -8,6 +8,7 @@ Dependencies:
 
 - [Gazebo MimicJointPlugin](https://github.com/roboticsgroup/roboticsgroup_upatras_gazebo_plugins)
 - [Gazebo contact_republisher](https://github.com/wonwon0/gazebo_contact_republisher)
+- [Robotiq gripper package](https://github.com/koikonomou/robotiq)
 
 After installation launch the basic environment using the following command:
 ```
